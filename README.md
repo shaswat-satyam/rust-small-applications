@@ -2,6 +2,7 @@
 This is a repository for me to store applications which I have created.
 
 ## Directory Tree
+```
 .
 ├── balls
 │   ├── Cargo.lock
@@ -19,4 +20,4 @@ This is a repository for me to store applications which I have created.
 └── README.md
 
 11 directories, 10 files
-
+```
