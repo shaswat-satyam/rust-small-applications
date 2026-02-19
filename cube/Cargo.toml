@@ -1,0 +1,9 @@
+[package]
+name = "cube"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+console = "0.16.2"
+macroquad = "0.4.14"
+term = "1.2.1"
